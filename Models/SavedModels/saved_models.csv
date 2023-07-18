@@ -1,0 +1,5 @@
+ModelType,ModelModule,DataType,DataModule,HourSaved,F1Score,ModelSavedAt,ScalerSavedAt
+GradientBoostingModel,Models.GB,TitanicData,DataLoader.Loader,2023-07-17 16:18:06.230180,,./Models/SavedModels/GradientBoostingModel-2023-07-17 16:18:06.230180.joblib,./Models/SavedScalers/StandardScaler-2023-07-17 16:18:06.230180.joblib
+GradientBoostingModel,Models.GB,TitanicData,DataLoader.Loader,2023-07-18 11:26:17.609396,,./Models/SavedModels/GradientBoostingModel-2023-07-18 11:26:17.609396.joblib,./Models/SavedScalers/StandardScaler-2023-07-18 11:26:17.609396.joblib
+MultiLayerPerceptronModel,Models.MLP,TitanicData,DataLoader.Loader,2023-07-18 11:30:25.289042,,./Models/SavedModels/MultiLayerPerceptronModel-2023-07-18 11:30:25.289042.joblib,./Models/SavedScalers/StandardScaler-2023-07-18 11:30:25.289042.joblib
+GradientBoostingModel,Models.GB,TitanicData,DataLoader.Loader,2023-07-18 11:37:18.685504,,./Models/SavedModels/GradientBoostingModel-2023-07-18 11:37:18.685504.joblib,./Models/SavedScalers/StandardScaler-2023-07-18 11:37:18.685504.joblib

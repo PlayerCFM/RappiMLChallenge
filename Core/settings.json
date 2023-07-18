@@ -1,0 +1,19 @@
+{
+    "DatasetLocation":{
+        "Titanic":{
+            "Train":"./Data/train.csv",
+            "Test":"./Data/test.csv",
+            "TestTarget":"./Data/gender_submission.csv",
+            "DownloadUrl": "http://www.exampleUrl.com/"
+        },
+        "ExampleSecondDataset":{
+            "Train":"./Data/train.csv",
+            "Test":"./Data/test.csv",
+            "TestTarget":"./Data/target.csv",
+            "DownloadUrl": "http://www.exampleUrl.com/"
+        }
+    },
+    "SavedModelsLocation": "./Models/SavedModels/",
+    "SavedModelsLocationDB": "./Models/SavedModels/saved_models.csv",
+    "SavedScalersLocation": "./Models/SavedScalers/"
+}
